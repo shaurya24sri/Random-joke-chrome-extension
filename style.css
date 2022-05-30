@@ -1,0 +1,16 @@
+body {
+  width: 400px;
+  height: 400px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+}
+p {
+  display: inner-flex;
+  margin: auto 8px;
+  color: brown;
+  border-radius: 5px;
+  border: 1px solid lawngreen;
+  padding: 10px;
+}
